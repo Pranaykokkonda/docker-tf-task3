@@ -46,9 +46,8 @@ Open the application in your browser via the IP address
    ---
 ## 🛠️ Check Terraform State
     terraform state list
-
+   ---
 ## 📋 Execution Log Summary
-
     terraform init | tee logs_init.txt
 .
 
